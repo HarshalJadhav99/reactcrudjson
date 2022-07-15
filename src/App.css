@@ -1,0 +1,10 @@
+.App {
+	text-align: center;
+}
+.table-header-custom {
+	position: sticky;
+	top: 0;
+}
+th {
+	cursor: pointer;
+}
